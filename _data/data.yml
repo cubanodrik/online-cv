@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Cubano Drik
-    tagline: Network Engineer
+    tagline: Beach tennis Player Pro
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,6 +21,7 @@ sidebar:
     #linkedin: 
     #xing: 
     github: cubanodrik
+    youtube: https://www.youtube.com/channel/UCCbjIrg2oT63iWYunzMnHhw
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -45,13 +46,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Football
-          link:
-
-        - item: Padel
-          link:
-
-        - item: Trips
+        - item: Beach tennis
           link:
 
 career-profile:
